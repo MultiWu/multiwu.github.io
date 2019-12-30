@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="[COLORgold]MWU[/color]Build">
+	<category label="MWU Build">
 		<setting id="adult" type="bool" label="NIE TYKEJ TEGO!!!" enable="true" default="true"/>
 		<setting id="iptvkey" type="text" label="[B] [COLORgold]MWU[/COLOR]Build [COLORsnow]Adres dostępu do IPTV: [/B][/COLOR]"/>
 	</category>
